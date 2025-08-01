@@ -1,21 +1,23 @@
 # nlp-tourist-perception
 
-## 🎯 项目目标  
-通过社交媒体数据，运用自然语言处理技术分析某一景观的旅游吸引力。
+## Project Objective 
+To analyze the tourist appeal of a specific landscape using natural language processing techniques based on social media data.
 
-## 📦 项目结构  
-- `data/`: 数据源与清洗结果  
-- `code/`: 数据爬取、清洗、分词、词云、聚类与情感分析代码  
-- `results/`: 分析可视化结果  
+## Project Structure  
+- `data/`: Data sources
+- `code/`: Code for data crawling, cleaning, tokenization, word clouds, clustering, and sentiment analysis
+- `results/`: Visualization results of the analysis
 
-## 🛠️ 技术工具  
-- Python、jieba、wordcloud、scikit-learn、networkx、snownlp
+## Technical Tools 
+- Programming Language: Python
+- Tencent API
+- DeepL API
 
-## 📌 分析流程  
-1. 数据采集  
-2. 文本清洗  
-3. 分词与关键词统计  
-4. 情感分析  
-5. 聚类与语义网络
+## Workflow  
+1. Data Collection 
+2. Data Cleaning: Retain textual content and manually remove information inconsistent with reality.
+3. Data Statistics: Present spatial-temporal distribution and demographic structure; generate word clouds.
+4. Data Analysis: Conduct sentiment analysis and Dirichlet distribution modeling.
 
-## 🖼️ 部分结果展示  
+## 部分结果展示
+(Using tourist comments on Huangpu River and Suzhou Creek from various countries on website X from 2009 to 2025 as an example)
