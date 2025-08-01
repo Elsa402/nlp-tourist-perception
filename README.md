@@ -19,5 +19,5 @@ To analyze the tourist appeal of a specific landscape using natural language pro
 3. Data Statistics: Present spatial-temporal distribution and demographic structure; generate word clouds.
 4. Data Analysis: Conduct sentiment analysis and Dirichlet distribution modeling.
 
-## 部分结果展示
+## Sample Results
 (Using tourist comments on Huangpu River and Suzhou Creek from various countries on website X from 2009 to 2025 as an example)
