@@ -1,6 +1,5 @@
 # nlp-tourist-perception
 
-
 ## Project Objective 
 To analyze the tourist appeal of a specific landscape using natural language processing techniques based on social media data.
 
